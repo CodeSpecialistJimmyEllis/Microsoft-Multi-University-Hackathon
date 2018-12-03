@@ -3,6 +3,8 @@ Microsoft &amp; IIT (Illinois Institute of Technology) threw a hackathon. The wi
 Since you were winning a job, I created a resume videogame to attempt to impress microsoft into hiring me. I finished the 
 project completely but did not get a job with microsoft.
 
+This hackathon project was made in 24 hours.
+
 This project was made in Visual Studio 2006.
 This is an XNA 4.0 project.
 This is a C# project.
