@@ -3,6 +3,12 @@ Microsoft &amp; IIT (Illinois Institute of Technology) threw a hackathon. The wi
 Since you were winning a job, I created a resume videogame to attempt to impress microsoft into hiring me. I finished the 
 project completely but did not get a job with microsoft.
 
+To check out the hackathon visit this link
+
+https://www.eventbrite.com/e/microsoft-recruiting-multi-university-student-hackathon-tickets-10938121215  
+then press "Event Details"
+
+Hackathon Date: April 5th - April 6th 20114
 This hackathon project was made in 24 hours.
 
 This project was made in Visual Studio 2006.
@@ -20,6 +26,7 @@ verson of this project because level 4 in my video game release "The Great Code 
 
 here:
 https://codeking.itch.io/the-great-code-king
+
 
 
 
