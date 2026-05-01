@@ -1,14 +1,14 @@
 # Microsoft-Multi-University-Hackathon
-Microsoft &amp; IIT (Illinois Institute of Technology) threw a hackathon. The winner got an internship with microsoft.
-Since you were winning a job, I created a resume videogame to attempt to impress microsoft into hiring me. I finished the 
-project completely but did not get a job with microsoft.
+Microsoft &amp; IIT (Illinois Institute of Technology) threw a hackathon. The winner got an internship with Microsoft.
+Since you were winning a job, I created a resume videogame to attempt to impress Microsoft into hiring me. I finished the 
+project completely but did not get a job with Microsoft.
 
 To check out the hackathon visit this link
 
 https://www.eventbrite.com/e/microsoft-recruiting-multi-university-student-hackathon-tickets-10938121215  
 then press "Event Details"
 
-Hackathon Date: April 5th - April 6th 20114
+Hackathon Date: April 5th - April 6th 2014
 This hackathon project was made in 24 hours.
 
 This project was made in Visual Studio 2006.
